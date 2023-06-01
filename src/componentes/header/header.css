@@ -1,0 +1,46 @@
+header {
+    width: 100vw;
+    height: 50px;
+    background-color: #de3163;
+    display: flex;
+    align-items: center;
+}
+
+.logo-header {
+    position: absolute;
+    left: 2.5%;
+    color: white;
+}
+
+.login-registro {
+    width: 20%;
+    position: absolute;
+    right: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.login-registro button {
+    width: 45%;
+    height: 25px;
+    border: none;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.login-registro a {
+    width: 45%;
+    height: 25px;
+    border: none;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.modo-dark-light {
+    position: absolute;
+    right: 2.5%;
+    color: white;
+}
+
+
+
